@@ -8,5 +8,5 @@ Backport of https://github.com/symfony/symfony/pull/60563
 ## Installation
 
 ```console
-composer require ws/form-attribute-bundle
+composer require wedgesama/form-attribute-bundle
 ```
